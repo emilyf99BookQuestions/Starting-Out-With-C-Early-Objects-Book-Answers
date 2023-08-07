@@ -1,6 +1,6 @@
 # Starting Out With C++ Early Objects Book Answers
 
-![](https://www.pearson.com/store/medias/-bigcovers-0135235006.jpg-size-W370?context=bWFzdGVyfGltYWdlc3w1NjM2M3xpbWFnZS9qcGVnfHN5cy1tYXN0ZXIvaW1hZ2VzL2g0Ni9oZTUvMTE4NjkzNzU3MjU1OTgvYmlnY292ZXJzLzAxMzUyMzUwMDYuanBnX3NpemVfVzM3MHxiODAzZGM0Y2VmZGEyNmNiMmY0MGEyOTY4NTQ2Zjg2ZmE5NjBjZTYzMDEzOTk2OGJmMjdlZTAwYTEwMzc5ZThj)
+![image](https://github.com/emilyf99BookQuestions/Starting-Out-With-C-Early-Objects-Book-Answers/assets/72047699/aba1b1ee-b9f2-497f-8fac-53ac9929dd84);
 ## Skills 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
