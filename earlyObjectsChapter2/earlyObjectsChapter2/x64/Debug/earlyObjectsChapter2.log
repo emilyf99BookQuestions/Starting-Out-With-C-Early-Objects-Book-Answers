@@ -1,3 +1,0 @@
-﻿  earlyObjectsChapter2.cpp
-C:\Users\Emily\source\repos\earlyObjectsChapter2\earlyObjectsChapter2\earlyObjectsChapter2.cpp(223,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  earlyObjectsChapter2.vcxproj -> C:\Users\Emily\source\repos\earlyObjectsChapter2\x64\Debug\earlyObjectsChapter2.exe
